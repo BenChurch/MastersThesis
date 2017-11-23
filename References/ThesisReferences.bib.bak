@@ -115,7 +115,23 @@ clinically acceptable accuracy below the 3.5 mm threshold.},
   month     = {apr},
   doi       = {10.1016/j.media.2010.07.008},
   file      = {:Gill2012.pdf:PDF},
+  groups    = {Registration, Visualization-Navigation},
   publisher = {Elsevier {BV}},
+}
+
+@Article{Nagpal2015,
+  author    = {Simrin Nagpal and Purang Abolmaesumi and Abtin Rasoulian and Ilker Hacihaliloglu and Tamas Ungi and Jill Osborn and Victoria A. Lessoway and John Rudan and Melanie Jaeger and Robert N. Rohling and Dan P. Borschneck and Parvin Mousavi},
+  title     = {A multi-vertebrae {CT} to {US} registration of the lumbar spine in clinical data},
+  journal   = {International Journal of Computer Assisted Radiology and Surgery},
+  year      = {2015},
+  volume    = {10},
+  number    = {9},
+  pages     = {1371--1381},
+  month     = {jul},
+  doi       = {10.1007/s11548-015-1247-5},
+  file      = {:Nagpal2015.pdf:PDF},
+  groups    = {Visualization-Navigation},
+  publisher = {Springer Nature},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
