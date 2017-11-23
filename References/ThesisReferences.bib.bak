@@ -134,6 +134,88 @@ clinically acceptable accuracy below the 3.5 mm threshold.},
   publisher = {Springer Nature},
 }
 
+@Article{Bath2014,
+  author    = {Brenna Bath and Catherine Trask and Jesse McCrosky and Josh Lawson},
+  title     = {A Biopsychosocial Profile of Adult Canadians with and without Chronic Back Disorders: A Population-Based Analysis of the 2009-2010 Canadian Community Health Surveys},
+  journal   = {{BioMed} Research International},
+  year      = {2014},
+  volume    = {2014},
+  pages     = {1--11},
+  doi       = {10.1155/2014/919621},
+  file      = {:Bath2014.pdf:PDF},
+  groups    = {BackPain},
+  publisher = {Hindawi Limited},
+}
+
+@Article{Hoy2010,
+  author    = {D. Hoy and P. Brooks and F. Blyth and R. Buchbinder},
+  title     = {The Epidemiology of low back pain},
+  journal   = {Best Practice {\&} Research Clinical Rheumatology},
+  year      = {2010},
+  volume    = {24},
+  number    = {6},
+  pages     = {769--781},
+  month     = {dec},
+  doi       = {10.1016/j.berh.2010.10.002},
+  file      = {:Hoy2010.pdf:PDF},
+  groups    = {BackPain},
+  publisher = {Elsevier {BV}},
+}
+
+@Article{Rubin2007,
+  author    = {Devon I. Rubin},
+  title     = {Epidemiology and Risk Factors for Spine Pain},
+  journal   = {Neurologic Clinics},
+  year      = {2007},
+  volume    = {25},
+  number    = {2},
+  pages     = {353--371},
+  month     = {may},
+  doi       = {10.1016/j.ncl.2007.01.004},
+  file      = {:Rubin2007.pdf:PDF},
+  groups    = {BackPain},
+  publisher = {Elsevier {BV}},
+}
+
+@Article{Hurdle2016,
+  author    = {Mark-Friedrich B. Hurdle},
+  title     = {Ultrasound-Guided Spinal Procedures for Pain},
+  journal   = {Physical Medicine and Rehabilitation Clinics of North America},
+  year      = {2016},
+  volume    = {27},
+  number    = {3},
+  pages     = {673--686},
+  month     = {aug},
+  doi       = {10.1016/j.pmr.2016.04.011},
+  file      = {:Hurdle2016.pdf:PDF},
+  groups    = {Intervention},
+  publisher = {Elsevier {BV}},
+}
+
+@Article{Han2017,
+  author    = {Seung Hoon Han and Ki Deok Park and Kyoung Rai Cho and Yongbum Park},
+  title     = {Ultrasound versus fluoroscopy-guided medial branch block for the treatment of lower lumbar facet joint pain},
+  journal   = {Medicine},
+  year      = {2017},
+  volume    = {96},
+  number    = {16},
+  pages     = {e6655},
+  month     = {apr},
+  doi       = {10.1097/md.0000000000006655},
+  file      = {:Han2017.pdf:PDF},
+  groups    = {BackPain, Intervention},
+  publisher = {Ovid Technologies (Wolters Kluwer Health)},
+}
+
+@InProceedings{Falco2012,
+  author    = {Frank Falco and Laxmaiah Manchikanti ad Sukdeb Datta and Nalini Sehgal and Stephanie Geffert and Obi Onyewu and Jie Zhu and Sareta Coubarous and Mariam Hameed and Stephen Ward and Manohar Sharma and Haroon Hameed and Vijay Singh and Mark Boswell},
+  title     = {An Update of the Effectiveness of Therapeutic Lumbar Facet Joint Interventions},
+  booktitle = {Pain Physician},
+  year      = {2012},
+  file      = {:Falco2012.pdf:PDF},
+  groups    = {BackPain, Intervention},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
@@ -141,4 +223,6 @@ clinically acceptable accuracy below the 3.5 mm threshold.},
 1 StaticGroup:Registration\;2\;1\;\;\;\;;
 2 StaticGroup:Visualization-Navigation\;2\;1\;\;\;\;;
 2 StaticGroup:DeformationAssessment\;0\;1\;\;\;\;;
+1 StaticGroup:BackPain\;2\;1\;\;\;\;;
+2 StaticGroup:Intervention\;2\;1\;\;\;\;;
 }
