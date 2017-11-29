@@ -217,6 +217,20 @@ clinically acceptable accuracy below the 3.5 mm threshold.},
   url       = {http://www.painphysicianjournal.com/current/pdf?article=MTc4Ng%3D%3D&journal=71},
 }
 
+@Article{Tran2017,
+  author    = {De Q. Tran and Andr{\'{e}} P. Boezaart and Joseph M. Neal},
+  title     = {Beyond Ultrasound Guidance for Regional Anesthesiology},
+  journal   = {Regional Anesthesia and Pain Medicine},
+  year      = {2017},
+  volume    = {42},
+  number    = {5},
+  pages     = {556--563},
+  doi       = {10.1097/aap.0000000000000628},
+  file      = {:Tran2017.pdf:PDF},
+  groups    = {Intervention},
+  publisher = {Ovid Technologies (Wolters Kluwer Health)},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
