@@ -259,6 +259,66 @@ clinically acceptable accuracy below the 3.5 mm threshold.},
   publisher = {Springer Nature},
 }
 
+@Article{Boisvert2008,
+  author    = {Jonathan Boisvert and Farida Cheriet and Xavier Pennec and Hubert Labelle and Nicholas Ayache},
+  title     = {Articulated Spine Models for 3D Reconstruction from Partial Radiographic Data},
+  journal   = {IEEE Transactions on Biomedical Engineering},
+  year      = {2008},
+  volume    = {55},
+  number    = {11},
+  pages     = {2565-2574},
+  abstract  = {Three-dimensional models of the spine are extremely flexible enough to image patients in different postures. Further-
+important to the assessment of spinal deformities. However, more, spinal deformities often afflict children or adolescents
+it could be difficult in practical situations to obtain enough and require multiple follow-up examinations, which means
+accurate information to reconstruct complete 3D models. This
+paper presents a set of methods to rebuild complete models that exposure to ionizing radiation should be minimized.
+either from partial 3D models or from 2D landmarks. The spine For these reasons, the most commonly used modality is
+was modeled as an articulated object to take advantage of its roentgenography (radiographs).
+natural anatomical variability. A statistical model of the vertebrae Reconstructing 3D spine models from radiographs can be
+and spine shape was first derived. Then, complete models were done using different methods. The most common methods
+computed by finding the articulated spine descriptions that were
+consistent with the observations while optimizing the prior prob- generally involve identifying anatomical landmarks on more
+ability given by the statistical model. The observations used were than one calibrated radiographs and then triangulating their 3D
+the absolute positions, orientations, and shapes of the vertebrae positions. The underlying calibration method can implicitly
+when a partial 3D model was available. The reconstruction of compute the calibration parameters by solving a system of
+3D spine models from 2D landmarks identified on radiograph(s) linear equations [6], [7], [8], or it can explicitly optimize
+was performed by minimizing the Mahalanobis distance and
+the landmarks re-projection error. The vertebrae estimated from the calibration parameters to minimize the re-projection error
+partial models were within 2 mm of the measured values (which [9]. Methods based on self-calibration algorithms were also
+is comparable to the accuracy of currently used methods) if proposed to avoid using a calibration object [10], [11]. These
+at least 25% of the vertebrae were available. Experiments methods, however, do not cope very well with missing or
+also suggest that the reconstruction from posterior-anterior and unrecognizable landmarks. The 3D positions of anatomical
+lateral radiographs using the proposed method is more accurate
+than the conventional triangulation method. landmarks not visible on at least two radiographs cannot},
+  booktitle = {IEEE Transactions on Biomedical Engineering},
+  doi       = {https://doi.org/10.1109/TBME.2008.2001125},
+  file      = {:Boisvert2008.pdf:PDF},
+  publisher = {IEEE},
+}
+
+@InProceedings{Boisvert2009,
+  author    = {Jonathan Boisvert and Farida Cheriet and Xavier Pennec and Nicholas Ayache},
+  title     = {3D reconstruction of the human spine from radiograph(s) using a multi-body statistical model},
+  booktitle = {SPIE Medical Imaging 2009: Visualization, Image-Guided Procedures, and Modeling},
+  year      = {2009},
+  editor    = {Michael I. Miga and Kenneth H. Wong},
+  month     = {feb},
+  publisher = {{SPIE}},
+  doi       = {10.1117/12.813580},
+  file      = {:Boisvert2009.pdf:PDF},
+}
+
+@InCollection{Moura2009,
+  author    = {Daniel C. Moura and Jonathan Boisvert and Jorge G. Barbosa and Jo{\~{a}}o Manuel R. S. Tavares},
+  title     = {Fast 3D Reconstruction of the Spine Using User-Defined Splines and a Statistical Articulated Model},
+  booktitle = {Advances in Visual Computing},
+  publisher = {Springer Berlin Heidelberg},
+  year      = {2009},
+  pages     = {586--595},
+  doi       = {10.1007/978-3-642-10331-5_55},
+  file      = {:Moura2009.pdf:PDF},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
