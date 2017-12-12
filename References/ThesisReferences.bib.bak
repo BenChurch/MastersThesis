@@ -308,6 +308,43 @@ than the conventional triangulation method. landmarks not visible on at least tw
   file      = {:Boisvert2009.pdf:PDF},
 }
 
+@InCollection{Moura2009,
+  author    = {Daniel C. Moura and Jonathan Boisvert and Jorge G. Barbosa and Jo{\~{a}}o Manuel R. S. Tavares},
+  title     = {Fast 3D Reconstruction of the Spine Using User-Defined Splines and a Statistical Articulated Model},
+  booktitle = {Advances in Visual Computing},
+  publisher = {Springer Berlin Heidelberg},
+  year      = {2009},
+  pages     = {586--595},
+  doi       = {10.1007/978-3-642-10331-5_55},
+  file      = {:Moura2009.pdf:PDF},
+}
+
+@InProceedings{Boisvert2011,
+  author    = {Jonathan Boisvert and Daniel C. Moura},
+  title     = {Interactive 3D Reconstruction of the Spine from Radiographs Using a Statistical Shape Model and Second-Order Cone Programming},
+  booktitle = {33rd Annual International Conference of the IEEE EMBS Boston, Massachusetts USA, August 30 - September 3, 2011},
+  year      = {2011},
+  publisher = {IEEE},
+  abstract  = {Three-dimensional models of the spine are com- interpolation technique. This meant that not all vertebrae
+monly used to diagnose, to treat, and to study spinal de- needed to be manually adjusted. However, vertebral defor-
+formities. Creating these models is however time-consuming mations were left out.
+and, therefore, expensive. We propose in this paper a recon-
+struction method that finds the most likely 3D reconstruction A method based on statistical inference performed on an
+given a maximal error bound on a limited set of landmark articulated model representing the whole spine (including
+locations supplied by the user. This problem can be solved both global and local deformations) was later proposed by
+using second-order cone programming, leading to a globally Boisvert et al. [4]. The method was able to successfully re-
+convergent method that is considerably faster than currently construct complete spine models even when a limited number
+available methods. A user can, with our current implementa-
+tion, interactively modify the landmark locations and receive of 3D landmarks were available. However, the execution time
+instantaneous feedback on the effect of those changes on the associated with the method was incompatible with clinical
+3D reconstruction instead of blindly selecting landmarks. The constraints.
+proposed method was validated on a set of 53 patients who had Humbert et al. [5] combined simpler statistical models
+adolescent idiopathic scoliosis using real and synthetic tests. Test
+results showed that the proposed method is considerably faster of the vertebral shapes and inter-vertebrae shape depen-},
+  doi       = {https://doi.org/10.1109/IEMBS.2011.6091386},
+  file      = {:Boisvert2011.pdf:PDF},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
