@@ -1,0 +1,1 @@
+  Church implemented and tested the method, Lasso developed the idea of using a landmark-based thin-plate spline registration, Schlenger is adopting the method for chiropractic use, Borschneck performed and provided numerous CT scans of scoliotic patients used for validation, 
