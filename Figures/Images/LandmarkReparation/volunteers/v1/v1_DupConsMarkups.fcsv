@@ -1,0 +1,12 @@
+# Markups fiducial file version = 4.8
+# CoordinateSystem = 0
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+1,-14.8508,91.5184,482.918,0,0,0,1,1,1,0,-7_Right,,
+2,-11.8508,106.518,429.918,0,0,0,1,1,1,0,v1_kMeansMarkups_Right-2,,
+3,-18.3508,105.518,339.418,0,0,0,1,1,1,0,v1_kMeansMarkups_Right-3,,
+4,-13.8508,59.5184,226.918,0,0,0,1,1,1,0,v1_kMeansMarkups_Right-4_Left,,
+5,-46.1008,34.2684,171.418,0,0,0,1,1,1,0,v1_kMeansMarkups_Right-5_Left,,
+6,-3.85076,-13.4816,99.9178,0,0,0,1,1,1,0,v1_kMeansMarkups_Right-6_Left,,
+7,61.6492,96.5184,475.418,0,0,0,1,1,1,0,-7,,
+8,46.5242,104.518,332.668,0,0,0,1,1,1,0,-8,,
+9,42.0867,30.3934,178.418,0,0,0,1,1,1,0,-9,,
